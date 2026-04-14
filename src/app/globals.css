@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+
 :root {
-  --bg: #080d0b;
+  --bg: #000000;
   --surface: #0f1711;
   --surface2: #141f16;
   --border: #1c2b1e;
